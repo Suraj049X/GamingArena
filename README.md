@@ -29,7 +29,7 @@ It showcases featured games, tournament schedules, and a contact section for use
 
 ## 🌐 Live Demo
 
-👉 [https://surajx49.github.io/Gaming_Arena/]
+👉 [https://suraj049x.github.io/GamingArena/]
 
 ---
 
